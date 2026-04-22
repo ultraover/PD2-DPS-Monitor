@@ -114,3 +114,7 @@ This means DPS values may be inflated or mixed depending on the situation (e.g. 
 This tool is intended for personal use and gameplay analysis.
 
 Use at your own risk.
+
+## Social Media
+
+Find us @ https://discord.gg/zTwRPYhc
